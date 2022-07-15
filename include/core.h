@@ -38,7 +38,7 @@ bool KeyIsPressed(SDL_KeyCode kcode);
 SDL_Point getMousePosition();
 void CheckForPressedKeys();
 
-//Function in basic collision
+//Function in basic math
 int absolute(int a);
 int roundOff(double d);
 double distBetweenPoints(SDL_Point a, SDL_Point b);
